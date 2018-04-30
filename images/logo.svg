@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="156px" viewBox="0 0 156 156" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M31.4435411,12.3638186 C38.1637411,16.0406873 42.7346454,23.2809094 42.7346454,31.6114119 C42.7346454,43.6630516 33.1681691,53.4328358 21.3673227,53.4328358 C9.56647622,53.4328358 1.03028697e-13,43.6630516 1.03028697e-13,31.6114119 C1.03028697e-13,26.7379064 1.56438141,22.2375468 4.20828608,18.6054957 L14.1951112,-1.49819849e-05 L31.4435411,12.3638186 Z" id="path-1"></path>
+        <path d="M31.4435411,12.3638186 C38.1637411,16.0406873 42.7346454,23.2809094 42.7346454,31.6114119 C42.7346454,43.6630516 33.1681691,53.4328358 21.3673227,53.4328358 C9.56647622,53.4328358 -7.10542736e-15,43.6630516 -7.10542736e-15,31.6114119 C-7.10542736e-15,26.7379064 1.56438141,22.2375468 4.20828608,18.6054957 L14.1951112,-1.49819851e-05 L31.4435411,12.3638186 Z" id="path-3"></path>
+        <path d="M31.4435411,12.3638186 C38.1637411,16.0406873 42.7346454,23.2809094 42.7346454,31.6114119 C42.7346454,43.6630516 33.1681691,53.4328358 21.3673227,53.4328358 C9.56647622,53.4328358 -4.97379915e-14,43.6630516 -4.97379915e-14,31.6114119 C-4.97379915e-14,26.7379064 1.56438141,22.2375468 4.20828608,18.6054957 L14.1951112,-1.4981985e-05 L31.4435411,12.3638186 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-10" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <circle id="Oval-4" fill="#000000" opacity="0.271286232" cx="78" cy="78" r="78"></circle>
+            <g id="Group-11" transform="translate(10.089552, 10.089552)">
+                <g id="Group-5">
+                    <path d="M82.9528518,32.3855287 L75.41408,0.628621598" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                    <g id="Group-2" transform="translate(72.500363, 69.741144) rotate(57.000000) translate(-72.500363, -69.741144) translate(24.000363, 17.241144)">
+                        <g id="Group" transform="translate(50.255607, 33.407975) rotate(122.000000) translate(-50.255607, -33.407975) translate(28.755607, 6.407975)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Combined-Shape" stroke="#FFFFFF" stroke-width="5" xlink:href="#path-1"></use>
+                            <ellipse id="Oval-3" mask="url(#mask-2)" cx="15.082816" cy="4.40035119" rx="3.14225334" ry="3.14310799"></ellipse>
+                            <path d="M31.7367587,9.11501317 L21.681548,26.0877963" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                            <path d="M14.14014,-0.942932397 L27.337604,57.5188762" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                            <path d="M19.7494356,26.4914036 L2.55728367,16.821515" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                            <path d="M43.0488707,17.2870939 L25.452252,45.5750658" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                            <path d="M24.1845596,45.4639435 L-4.33312086,28.2500465" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                        </g>
+                        <g id="Group" transform="translate(62.399343, 72.646356) rotate(239.000000) translate(-62.399343, -72.646356) translate(40.899343, 45.646356)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Combined-Shape" stroke="#FFFFFF" stroke-width="5" xlink:href="#path-3"></use>
+                            <ellipse id="Oval-3" mask="url(#mask-4)" cx="15.082816" cy="4.40035119" rx="3.14225334" ry="3.14310799"></ellipse>
+                            <path d="M31.7367587,9.11501317 L21.681548,26.0877963" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-4)"></path>
+                            <path d="M14.14014,-0.942932397 L27.337604,57.5188762" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-4)"></path>
+                            <path d="M19.7494356,26.4914036 L2.55728367,16.821515" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-4)"></path>
+                            <path d="M43.0488707,17.2870939 L25.452252,45.5750658" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-4)"></path>
+                            <path d="M24.1845596,45.4639435 L-4.33312086,28.2500465" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-4)"></path>
+                        </g>
+                        <g id="Group" transform="translate(-0.000000, 36.831431)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Combined-Shape" stroke="#FFFFFF" stroke-width="5" xlink:href="#path-5"></use>
+                            <ellipse id="Oval-3" mask="url(#mask-6)" cx="15.082816" cy="4.40035119" rx="3.14225334" ry="3.14310799"></ellipse>
+                            <path d="M31.7367587,9.11501317 L21.681548,26.0877963" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-6)"></path>
+                            <path d="M14.14014,-0.942932397 L27.337604,57.5188762" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-6)"></path>
+                            <path d="M19.7494356,26.4914036 L2.55728367,16.821515" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-6)"></path>
+                            <path d="M43.0488707,17.2870939 L25.452252,45.5750658" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-6)"></path>
+                            <path d="M24.1845596,45.4639435 L-4.33312086,28.2500465" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" mask="url(#mask-6)"></path>
+                        </g>
+                    </g>
+                    <path d="M28.5955574,72.2914838 L6.91295734,96.6835772" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="5" cx="67.5584467" cy="67.5768218" rx="67.5584467" ry="67.5768218"></ellipse>
+                    <path d="M90.4968961,99.9508341 L122.488927,106.378763" id="Line" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
